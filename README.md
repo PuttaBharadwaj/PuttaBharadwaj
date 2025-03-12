@@ -53,7 +53,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aranav1289" height="30" width="40" />
   </a>
   <a href="https://www.topcoder.com/members/aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="aranav1289" height="30" width="40" />
+    <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+" alt="aranav1289" height="30" width="40" />
   </a>
   -->
 </p>
